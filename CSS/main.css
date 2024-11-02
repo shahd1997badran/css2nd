@@ -1,0 +1,44 @@
+.clearfix{
+    clear: both;
+}
+.product{
+    width: 25%;
+    
+    float: left;
+}
+img{
+    height: 120px;
+}
+.buttons{
+    margin-top: 40px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+.rButton{
+   background-color: blue;
+   width: 200px;
+   height: 30px;
+   color: aliceblue;
+}
+.lButton{
+    height: 30px;
+    border-color: blue;
+}
+.fa-heart{
+    color: blue;
+}
+.price{
+    margin-bottom: 0px;
+    float: left;
+}
+.new{
+    color: green;
+    margin-top: 0px;
+    margin-right: 10px;
+
+   
+}
+.old{
+    color: red;
+   
+}
